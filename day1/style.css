@@ -1,0 +1,44 @@
+body{
+  background-color: #eca53b;
+}
+
+header {background: 55d6aa;
+}
+
+.Container{
+  width: 80%;
+
+}
+
+
+
+.title1{
+  color: rgb(196, 25, 25);
+}
+
+.pic{
+  border:solid red;
+}
+
+.Cute-button{
+  background-color: rgb(230, 38, 172);
+  
+   
+}
+.Awesome-button{
+  background-color: rgb(223, 117, 134);
+  color:black
+
+ }
+
+.Scrupmstious-button{
+  background-color: red;
+  color:black 
+
+ }
+   
+  
+
+
+
+
